@@ -1,5 +1,3 @@
-console.log(Teste);
-
 function calculateTip(event) {
   event.preventDefault();
   let bill = document.getElementById("bill").value;
